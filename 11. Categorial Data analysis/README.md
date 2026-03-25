@@ -4,8 +4,9 @@ PRN: 25070123063
 Batch: A3
 Date: 06/03/2026
 ________________________________________
-Theory
-Introduction
+## Theory:
+
+### Introduction
 Categorical data represents variables that contain label values rather than numeric values (e.g., 'Clothing', 'Electronics', 'Male', 'Female'). Analyzing this type of data involves counting frequencies, finding proportions, and observing the relationships between different categorical variables. The Python library Pandas is highly effective for this, providing high-performance, easy-to-use data structures and data analysis tools.
 ________________________________________
 Core Pandas Functions Used in the Experiment
@@ -29,7 +30,7 @@ Example: Checking how many "New" vs "Returning" customers opted for "Express" vs
 •	df.groupby('Column'): Splits the data into separate groups based on the unique values of a specified categorical column. When combined with an aggregation function like .count(), it allows you to calculate statistics for each group independently (e.g., counting how many payment methods were used per category).
 •	df.sort_values(by='Column'): Sorts the DataFrame sequentially based on the values in a specific column. For categorical text data, this organizes the rows in alphabetical order based on that column's labels.
 ________________________________________
-Conclusion
+## Conclusion: 
 Through functions like value_counts() and crosstab(), Pandas provides a robust framework for descriptive statistics on categorical data. These tools allow analysts to quickly summarize string-based data, understand category distributions, and discover intersecting trends between multiple categorical variables.
 
 
