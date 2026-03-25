@@ -1,7 +1,7 @@
 # Experiment 10: Create and Upload Dataset
 
-**Name:** Khush Chauhan  
-**PRN:** 25070123062  
+**Name:** Kovida Punj  
+**PRN:** 25070123063  
 **Class:** Entc - A3  
 **Date:** 20th February, 2026  
 
