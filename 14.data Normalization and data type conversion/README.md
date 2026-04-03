@@ -1,4 +1,8 @@
-# <ins>Data Normalization & Data Type Conversion</ins>
+# TITLE - <ins>Data Normalization & Data Type Conversion</ins>
+## Name - Kovida Punj
+## PRN - 25070123063
+## Branch - E&TC A3
+## Batch - 2025-29
 
 ## **AIM** 
 * To study and perform data normalization and convert categorical variables into quantitative variables using various Python functions and operations.</br>
