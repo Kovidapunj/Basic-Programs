@@ -1,17 +1,5 @@
 #  Experiment 17 – Exploring Statistical and Specialized Data Visualization Techniques
 
----
-
-##  Title Page
-
-| ------------------- | ------------------------------------------------------------------- |
-| **Name**            | Kovida Punj                                                          |
-| **PRN**             | 25070123063                                                         |
-| **Branch / Batch**  | EnTC A3                                                             |
-| **Experiment No.**  | 17                                                                  |
-| **Subject**         | Exploratory Data Analysis (EDA)                                     |
-| **Date**            | 08 / 04 / 2026                                                      |
-| **Title**           | Exploring Statistical and Specialized Data Visualization Techniques |
 
 ---
 
