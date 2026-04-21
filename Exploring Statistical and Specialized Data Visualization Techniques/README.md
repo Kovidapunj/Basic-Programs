@@ -946,12 +946,6 @@ pd.crosstab(df['cat1'], df['cat2'], margins=True, normalize='index')
 
 <div align="center">
 
-**Made by Tanmay Agarwal**
-
-**EnTC A3 | PRN: 25070123158**
-
----
-
 *This README is part of Experiment 17 - Exploratory Data Analysis (EDA)*
 
 </div>
